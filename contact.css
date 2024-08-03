@@ -224,10 +224,10 @@ nav a {
   }
   nav a {
     position: relative;
-    font-size: 19px;
+    font-size: 16px;
     text-decoration: none;
     color: red;
-    padding: 6px 17.6px;
+    padding: 6px 15.6px;
     transition: .5s;
   }
   
