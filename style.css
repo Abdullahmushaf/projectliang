@@ -29,7 +29,7 @@ nav {
 nav a {
     position: relative;
     font-size: 25px;
-    color: indigo;
+    color: black;
     text-decoration: none;
     padding: 6px 50px;
     transition: 0.5s;
@@ -38,7 +38,7 @@ nav a {
 }
 
 nav a:hover {
-    color: blue;
+    color: indigo;
 }
 
 nav a span {
