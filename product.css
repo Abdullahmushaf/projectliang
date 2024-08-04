@@ -64,7 +64,6 @@ border-radius: 25px;
     margin-right: 200px;
 }
 .banner{
-    border: 4px groove black ;
     display: flex;
     flex-wrap: wrap;
    justify-content: space-evenly;
